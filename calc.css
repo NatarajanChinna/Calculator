@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    padding: 23px;
+    background-color: skyblue;
+    color: white;
+    }
+#clear{
+width: 270px;
+border: 3px solid gray;
+    border-radius: 3px;
+    padding: 20px;
+    background-color: red;
+    margin:0px;
+}
+.tablestyle
+{
+width: 310px;
+height: 530px;
+margin: auto;
+
+border-radius: 5px;
+padding: 20px;
+}
+input
+{
+width: 20px;
+background-color:rgba(94, 93, 95);
+color: white;
+border: 3px solid rgba(74, 73, 75)gray;
+    border-radius: 5px;
+    padding: 26px;
+    margin: 5px;
+    font-size: 15px;
+} 
+#calc{
+width: 265px;
+border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: auto;
+}
